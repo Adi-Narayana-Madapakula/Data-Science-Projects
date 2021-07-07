@@ -6,4 +6,8 @@
 > * This is used by using Logistic Algorithm.
 > * Methods Worked On :
 >   - CountVectorizer
+>      - Accuracy : **0.9360156404521733**
 >   - TF-IDF
+>      - Accuracy : **0.9341518706163373**
+>   - GridSearch CV 
+>      - Accuracy : **0.9869196399663278**
